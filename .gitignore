@@ -1,0 +1,11 @@
+.idea/
+*.iml
+*.class
+.project
+.classpath
+
+out/production/IART/META-INF/
+
+*.jar
+
+src/META-INF/
